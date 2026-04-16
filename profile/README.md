@@ -1,20 +1,13 @@
-## Bienvenu sur l'espace technique de Sabor Hispano Americano
+# Bienvenu sur l'espace technique de Sabor Hispano Americano
 
-Comment contribuer au site web de Sabor [site-sabor](https://github.com/Sabor-Hispano-Americano/site-sabor) ?
+## Logiciel de construction du site web Sabor
 
-### Branches utilisateur:
+### Dépot (privé)
+- Lien vers le dépot: [site-sabor](https://github.com/Sabor-Hispano-Americano/site-sabor) ?
 
+### Branches utilisateur (privé)
 - [dev-dominique](https://github.com/Sabor-Hispano-Americano/site-sabor/tree/dev-dominique)
 - [dev-jeanpierre](https://github.com/Sabor-Hispano-Americano/site-sabor/tree/dev-jeanpierre)
-- 
 
-### Règles de contribution
 
-    - Ne modifiez jamais la branche main directement.
-
-    - Créez/Utilisez toujours une branche à votre nom
-
-    - Visualisez vos changements sur : https://dev.sha.asso.fr/[votre-branche]/.
-
-    - Une fois prêt, demandez une fusion (Pull Request) vers main
 
