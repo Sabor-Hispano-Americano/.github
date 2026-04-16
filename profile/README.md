@@ -2,7 +2,7 @@
 
 ## Logiciel de construction du site web Sabor
 
-[Site officiel: https://sha.asso.fr](https://sha.asso.fr)
+Site officiel: [https://sha.asso.fr](https://sha.asso.fr)
 
 ### Dépot (privé)
 - Lien vers le dépot: [site-sabor](https://github.com/Sabor-Hispano-Americano/site-sabor) ?
