@@ -1,4 +1,4 @@
-# Bienvenu sur l'espace technique de Sabor Hispano Americano
+# Bienvenu sur l'espace Sabor Hispano Americano
 
 ## Logiciel de construction du site web Sabor
 
